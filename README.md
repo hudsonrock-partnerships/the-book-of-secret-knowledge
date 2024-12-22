@@ -648,6 +648,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp; <a href="https://haveibeenpwned.com/"><b>have i been pwned?</b></a> - check if you have an account that has been compromised in a data breach.<br>
+&nbsp;&nbsp; <a href="https://www.hudsonrock.com/threat-intelligence-cybercrime-tools"><b>Hudson Rock</b></a> - check if email address or domain was compromised in global Infostealer malware attack.<br>
 &nbsp;&nbsp; <a href="https://www.dehashed.com/"><b>dehashed</b></a> - is a hacked database search engine.<br>
 &nbsp;&nbsp; <a href="https://leakedsource.ru/"><b>Leaked Source</b></a> - is a collaboration of data found online in the form of a lookup.<br>
 </p>
@@ -1153,6 +1154,7 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, a
 &nbsp;&nbsp; <a href="https://portswigger.net/blog"><b>PortSwigger Web Security Blog</b></a> - about web app security vulns and top tips from our team of web security.<br>
 &nbsp;&nbsp; <a href="https://www.alienvault.com/blogs"><b>AT&T Cybersecurity blog</b></a> - news on emerging threats and practical advice to simplify threat detection.<br>
 &nbsp;&nbsp; <a href="https://thycotic.com/company/blog/"><b>Thycotic</b></a> - where CISOs and IT Admins come to learn about industry trends, IT security, and more.<br>
+&nbsp;&nbsp; <a href="https://www.infostealers.com/"><b>Infostealers by Hudson Rock</b></a> - the all-around hub with news and publications about Infostealers..<br>
 </p>
 
 ##### :black_small_square: Geeky Cybersecurity Podcasts
